@@ -7,7 +7,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
-  <img align="center" alt="Flutter" height="30" width="40" src="https://www.pngwing.com/en/free-png-aztay">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
   
 </div>
