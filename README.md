@@ -5,8 +5,8 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://icon-icons.com/icon/java-logo/169577">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://www.pngwing.com/en/free-png-sfkcb">
+  <img align="center" alt="java" height="30" width="40" src="https://pt.wikipedia.org/wiki/Ficheiro:Java_programming_language_logo.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
 </div>
   
