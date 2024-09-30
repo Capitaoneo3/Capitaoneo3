@@ -8,7 +8,6 @@
   <img align="center" alt="java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/flutter-icon.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
   
 </div>
   
