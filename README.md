@@ -2,7 +2,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
    <img align="center" alt="Pyton" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png">
 </div>
   
